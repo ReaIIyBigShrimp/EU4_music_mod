@@ -1,0 +1,16 @@
+song = {
+  name = "akingisdead"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "amongthepoor"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}

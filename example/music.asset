@@ -1,0 +1,208 @@
+music = {
+  name = "akingisdead"
+  file = "akingisdead.ogg"
+}
+music = {
+  name = "amongthepoor"
+  file = "amongthepoor.ogg"
+}
+music = {
+  name = "asimplesongforcommoners"
+  file = "asimplesongforcommoners.ogg"
+}
+music = {
+  name = "battleoflepanto"
+  file = "battleoflepanto.ogg"
+}
+music = {
+  name = "coeurdelion"
+  file = "coeurdelion.ogg"
+}
+music = {
+  name = "commerceinthepeninsula"
+  file = "commerceinthepeninsula.ogg"
+}
+music = {
+  name = "crusaderkings2_maintitle"
+  file = "crusaderkings2_maintitle.ogg"
+}
+music = {
+  name = "crusaders"
+  file = "crusaders.ogg"
+}
+music = {
+  name = "dehominisdignitate"
+  file = "dehominisdignitate.ogg"
+}
+music = {
+  name = "eire"
+  file = "eire.ogg"
+}
+music = {
+  name = "event_war_battleofbreitenfeld"
+  file = "event_war_battleofbreitenfeld.ogg"
+}
+music = {
+  name = "hornsofhattinandaftermath"
+  file = "hornsofhattinandaftermath.ogg"
+}
+music = {
+  name = "intaberna"
+  file = "intaberna.ogg"
+}
+music = {
+  name = "inthestreets"
+  file = "inthestreets.ogg"
+}
+music = {
+  name = "journeytoabsolution"
+  file = "journeytoabsolution.ogg"
+}
+music = {
+  name = "kingdomofjerusalem"
+  file = "kingdomofjerusalem.ogg"
+}
+music = {
+  name = "kingscourt"
+  file = "kingscourt.ogg"
+}
+music = {
+  name = "kingsinthenorth"
+  file = "kingsinthenorth.ogg"
+}
+music = {
+  name = "komnenos"
+  file = "komnenos.ogg"
+}
+music = {
+  name = "krakdeschevaliers"
+  file = "krakdeschevaliers.ogg"
+}
+music = {
+  name = "legacyofrome"
+  file = "legacyofrome.ogg"
+}
+music = {
+  name = "machiavelli"
+  file = "machiavelli.ogg"
+}
+music = {
+  name = "maintheme"
+  file = "maintheme.ogg"
+}
+music = {
+  name = "marchtoholyland"
+  file = "marchtoholyland.ogg"
+}
+music = {
+  name = "moodevent_thesnowiscoming"
+  file = "moodevent_thesnowiscoming.ogg"
+}
+music = {
+  name = "mood_discovery"
+  file = "mood_discovery.ogg"
+}
+music = {
+  name = "mood_landinsight"
+  file = "mood_landinsight.ogg"
+}
+music = {
+  name = "mykingdom"
+  file = "mykingdom.ogg"
+}
+music = {
+  name = "nighttime"
+  file = "nighttime.ogg"
+}
+music = {
+  name = "openseas"
+  file = "openseas.ogg"
+}
+music = {
+  name = "orderofthetemple"
+  file = "orderofthetemple.ogg"
+}
+music = {
+  name = "pathtoglory"
+  file = "pathtoglory.ogg"
+}
+music = {
+  name = "pilgrimage"
+  file = "pilgrimage.ogg"
+}
+music = {
+  name = "rideforthvictoriously"
+  file = "rideforthvictoriously.ogg"
+}
+music = {
+  name = "royalmarriage"
+  file = "royalmarriage.ogg"
+}
+music = {
+  name = "saladinbesiegejerusalem"
+  file = "saladinbesiegejerusalem.ogg"
+}
+music = {
+  name = "sanctus"
+  file = "sanctus.ogg"
+}
+music = {
+  name = "siegeofkerak"
+  file = "siegeofkerak.ogg"
+}
+music = {
+  name = "sormp_For_Honour_and_Glory_War"
+  file = "sormp_For_Honour_and_Glory_War.ogg"
+}
+music = {
+  name = "tedonimum"
+  file = "tedonimum.ogg"
+}
+music = {
+  name = "theageofdiscovery"
+  file = "theageofdiscovery.ogg"
+}
+music = {
+  name = "thebyzantineempire"
+  file = "thebyzantineempire.ogg"
+}
+music = {
+  name = "theendofanera_endcredits"
+  file = "theendofanera_endcredits.ogg"
+}
+music = {
+  name = "thefirstcrusade"
+  file = "thefirstcrusade.ogg"
+}
+music = {
+  name = "thefranks"
+  file = "thefranks.ogg"
+}
+music = {
+  name = "theholysepulchre"
+  file = "theholysepulchre.ogg"
+}
+music = {
+  name = "thelastcrusade_finale"
+  file = "thelastcrusade_finale.ogg"
+}
+music = {
+  name = "thesoundofsummer"
+  file = "thesoundofsummer.ogg"
+}
+music = {
+  name = "thestageisset"
+  file = "thestageisset.ogg"
+}
+music = {
+  name = "thestonemasons"
+  file = "thestonemasons.ogg"
+}
+music = {
+  name = "turexgloriae"
+  file = "turexgloriae.ogg"
+}
+music = {
+  name = "war_offtowar"
+  file = "war_offtowar.ogg"
+}

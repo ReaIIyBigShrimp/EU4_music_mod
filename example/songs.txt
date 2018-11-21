@@ -1,0 +1,416 @@
+song = {
+  name = "akingisdead"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "amongthepoor"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "asimplesongforcommoners"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "battleoflepanto"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "coeurdelion"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "commerceinthepeninsula"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "crusaderkings2_maintitle"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "crusaders"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "dehominisdignitate"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "eire"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "event_war_battleofbreitenfeld"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "hornsofhattinandaftermath"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "intaberna"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "inthestreets"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "journeytoabsolution"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "kingdomofjerusalem"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "kingscourt"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "kingsinthenorth"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "komnenos"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "krakdeschevaliers"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "legacyofrome"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "machiavelli"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "maintheme"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "marchtoholyland"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "moodevent_thesnowiscoming"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "mood_discovery"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "mood_landinsight"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "mykingdom"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "nighttime"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "openseas"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "orderofthetemple"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "pathtoglory"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "pilgrimage"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "rideforthvictoriously"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "royalmarriage"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "saladinbesiegejerusalem"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "sanctus"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "siegeofkerak"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "sormp_For_Honour_and_Glory_War"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "tedonimum"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "theageofdiscovery"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "thebyzantineempire"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "theendofanera_endcredits"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "thefirstcrusade"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "thefranks"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "theholysepulchre"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "thelastcrusade_finale"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "thesoundofsummer"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "thestageisset"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "thestonemasons"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "turexgloriae"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
+song = {
+  name = "war_offtowar"
+  chance = {
+    modifer = {
+      factor = 1
+    }
+  }
+}
